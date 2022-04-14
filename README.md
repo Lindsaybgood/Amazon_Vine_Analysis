@@ -33,7 +33,7 @@ Due to the size of the dataframes it took some time to load to PostgreSQL and th
 <img width="740" alt="Screen Shot 2021-08-29 at 11 21 27 PM" src="https://user-images.githubusercontent.com/83378141/131558908-a2c084ee-6702-42b7-9355-22e2bab1c772.png">
 <img width="741" alt="Screen Shot 2021-08-29 at 11 25 19 PM" src="https://user-images.githubusercontent.com/83378141/131558909-3b5a6ef3-c351-4824-bfcb-5d562faec371.png">
 
-And lastly, I worked with the last table called `vine_table` to perform the Vine program analysis to filter the best reviews, and see if there were significantly more 5-star reviews in the paid and incentivized (vine) program. The best reviews were those that were highly voted as helpful. Then, I filtered to see which of those were part of the vine program and which were not. Please refer to the [Amazon_Vine_Analysis.ipynb](https://github.com/nicoserrano/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb) 
+And lastly, I worked with the last table called `vine_table` to perform the Vine program analysis to filter the best reviews, and see if there were significantly more 5-star reviews in the paid and incentivized (vine) program. The best reviews were those that were highly voted as helpful. Then, I filtered to see which of those were part of the vine program and which were not. Please refer to the [Amazon_Vine_Analysis.ipynb](https://github.com/Lindsaybgood/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb) 
 
 ## Results
 - Paid Vine Program
