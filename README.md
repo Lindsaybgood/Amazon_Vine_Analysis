@@ -19,7 +19,7 @@ The objective of this project was to familiarize myself with Spark. Apache Spark
 
 ## Roadmap
 
-The first step was to extract the dataset from an AWS S3 using PySpark in order to transform it and load it to AWS again. Please refer to [Amazon_Reviews_ETL.ipynb](https://github.com/nicoserrano/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb) to see the code. Note that I downloaded it as a jupyter notebook file, but it was originally created in Google Colab for PySpark to run. There, I basically divided the whole dataframe into 4 smaller dataframes for better analysis. These dataframes were then loaded to AWS RDS using a a connection from PySpark to PostgreSQL. 
+The first step was to extract the dataset from an AWS S3 using PySpark in order to transform it and load it to AWS again. Please refer to [Amazon_Reviews_ETL.ipynb](https://github.com/Lindsaybgood/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb) to see the code. Note that I downloaded it as a jupyter notebook file, but it was originally created in Google Colab for PySpark to run. There, I basically divided the whole dataframe into 4 smaller dataframes for better analysis. These dataframes were then loaded to AWS RDS using a a connection from PySpark to PostgreSQL. 
 
 ![Screen Shot 2021-08-31 at 2 43 06 PM](https://user-images.githubusercontent.com/83378141/131558534-69e6fe25-e811-49ae-97dc-bd1011f77c6c.png)
 ![Screen Shot 2021-08-31 at 2 43 14 PM](https://user-images.githubusercontent.com/83378141/131558546-f15f0f5b-6254-4022-8b61-2f3bfde8ea13.png)
