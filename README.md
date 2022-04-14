@@ -9,7 +9,7 @@ The objective of this project was to familiarize myself with Spark. Apache Spark
 
 ## Resources
 - Datasets:
-  - [US Apparel dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+  - [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
 - Technologies used:
   - Google Colab (to run PySpark)
